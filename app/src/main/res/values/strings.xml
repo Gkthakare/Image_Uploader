@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageUploader</string>
+    <string name="selectImage">Select Image</string>
+    <string name="uploadImage">Upload Image</string>
+    <string name="firebase_cloud_storage">Firebase Cloud Storage</string>
+    <string name="type_image_name">Type Image Name</string>
+    <string name="get_image">Get Image</string>
+    <string name="upload_image">Upload Image</string>
+</resources>
